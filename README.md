@@ -25,5 +25,5 @@ I'm Andrii - junior full-stack web-developer.
 ![alt text](https://github.com/abranhe/programming-languages-logos/blob/master/src/css/css_24x24.png?raw=true)
 ![alt text](https://github.com/abranhe/programming-languages-logos/blob/master/src/javascript/javascript_24x24.png?raw=true)
 ![alt text](https://github.com/abranhe/programming-languages-logos/blob/master/src/ruby/ruby_24x24.png?raw=true)
-![alt text](https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg?raw=true)
+![alt text](https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg | width=24)
 
