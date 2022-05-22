@@ -16,13 +16,14 @@ Here are some ideas to get you started:
 -->
 
 I'm Andrii - junior full-stack web-developer. 
-- 👨‍💻 I have graduated LeWagon full-stack web-development bootcamp and DappCamp - web3 bootcamp.
+- 👨‍💻 I have graduated LeWagon - full-stack web-development bootcamp and DappCamp - web3 bootcamp.
 - 🌱 I’m currently studying web-development with HackYourFuture Denmark.
 - 📫 How to reach me: andrii.gorokhovskyi@gmail.com
 
-#languages and tools
+## languages and tools
 ![alt text](https://github.com/abranhe/programming-languages-logos/blob/master/src/html/html_24x24.png?raw=true)
 ![alt text](https://github.com/abranhe/programming-languages-logos/blob/master/src/css/css_24x24.png?raw=true)
 ![alt text](https://github.com/abranhe/programming-languages-logos/blob/master/src/javascript/javascript_24x24.png?raw=true)
 ![alt text](https://github.com/abranhe/programming-languages-logos/blob/master/src/ruby/ruby_24x24.png?raw=true)
+![alt text](https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg?raw=true)
 
