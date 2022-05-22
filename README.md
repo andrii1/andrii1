@@ -9,8 +9,7 @@
 - 👨‍💻 I have graduated LeWagon - full-stack web-development bootcamp and DappCamp - web3 bootcamp.  
 - 🌱 I’m currently studying web-development with HackYourFuture Denmark.  
 - 📫 How to reach me: andrii.gorokhovskyi@gmail.com  
-- 💼 Portfolio: <a href="https://linkedin.com/in/andriig" target="_blank">Troopl
-</a>
+- 💼 Portfolio: <a href="https://troopl.com/andrii" target="_blank">Troopl</a>
 - ⚡ Fun fact: I like white theme.  
   
 
