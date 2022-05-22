@@ -22,7 +22,7 @@
 
 
 ## My Skill Set  
-<table style="border:none"><tr><td valign="top" width="33%" style="border:none">
+
 
 <div align="center">  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="25" />
@@ -39,15 +39,7 @@
  
 </div>
 
-</td><td valign="top" width="33%">
 
-
-
-</td><td valign="top" width="33%">
-
-
-
-</td></tr></table>  
 
 <br/>  
 
@@ -102,5 +94,3 @@
             </a></div>
 <br />
 
-----
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
