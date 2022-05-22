@@ -14,3 +14,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+I'm Andrii - junior full-stack web-developer. 
+- 👨‍💻 I have graduated LeWagon full-stack web-development bootcamp and DappCamp - web3 bootcamp.
+- 
+- 🌱 I’m currently studying web-development in HackYourFuture Denmark ...
+- 📫 How to reach me: andrii.gorokhovskyi@gmail.com
+
+languages and tools
+![alt text]([https://github.com/[username]/[reponame]/blob/[branch]/image.jpg?raw=true](https://github.com/abranhe/programming-languages-logos/blob/master/src/javascript/javascript_24x24.png)
