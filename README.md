@@ -22,4 +22,4 @@ I'm Andrii - junior full-stack web-developer.
 - 📫 How to reach me: andrii.gorokhovskyi@gmail.com
 
 languages and tools
-![alt text]([https://github.com/[username]/[reponame]/blob/[branch]/image.jpg?raw=true](https://github.com/abranhe/programming-languages-logos/blob/master/src/javascript/javascript_24x24.png)
+![alt text](https://github.com/abranhe/programming-languages-logos/blob/master/src/javascript/javascript_24x24.png?raw=true)
