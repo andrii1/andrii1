@@ -7,14 +7,8 @@
   
 
 - 👨‍💻 I have graduated LeWagon - full-stack web-development bootcamp and DappCamp - web3 bootcamp.  
-  
-
 - 🌱 I’m currently studying web-development with HackYourFuture Denmark.  
-  
-
 - 📫 How to reach me: andrii.gorokhovskyi@gmail.com  
-  
-
 - ⚡ Fun fact: I like white theme.  
   
 
