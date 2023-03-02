@@ -6,11 +6,10 @@
 ### <div align="center">I'm Andrii, junior full-stack web-developer.</div>  
   
 
-- 👨‍💻 I have graduated LeWagon - full-stack web-development bootcamp and DappCamp - web3 bootcamp.  
-- 🌱 I’m currently studying web-development with HackYourFuture Denmark.  
+- 👨‍💻 I have graduated two full-stack web-development bootcamps: LeWagon - (Ruby, Ruby on Rails) and HackYourFuture Denmark - (React, NodeJS).  
 - 📫 How to reach me: andrii.gorokhovskyi@gmail.com  
 - 💼 Portfolio: <a href="https://troopl.com/andrii" target="_blank">Troopl</a>
-- ⚡ Fun fact: I like white theme.  
+- ⚡ Fun fact: I like white themes.  
   
 
 <br/>  
