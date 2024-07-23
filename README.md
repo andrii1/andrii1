@@ -16,11 +16,10 @@
 
 ## My Recent Projects
 
-- Task manager (view, create, update, delete tasks, user authentication) - React, Node.js <a href="https://github.com/andrii1/interview-assignment-tasks/tree/main
-" target="_blank">Link</a>
+- ✅ <a href="https://github.com/andrii1/interview-assignment-tasks/tree/main
+" target="_blank">Task manager</a> (view, create, update, delete tasks, user authentication) - React, Node.js
 
 ## My Skill Set  
-
 
 <div align="center">  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="25" />
