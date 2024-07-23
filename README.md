@@ -5,19 +5,18 @@
 
 ### <div align="center">I'm Andrii, junior full-stack web-developer.</div>  
   
-
+- 👨‍💻 Recent job - full-stack developer at Growblocks (React, Typescript, Tailwind, Storybook, Jest, Remix)  
 - 👨‍💻 I have graduated two full-stack web-development bootcamps: LeWagon - (Ruby, Ruby on Rails) and HackYourFuture Denmark - (React, NodeJS).  
 - 📫 How to reach me: andrii.gorokhovskyi@gmail.com  
 - 💼 Portfolio: <a href="https://troopl.com/andrii" target="_blank">Troopl</a>
 - ⚡ Fun fact: I like white themes.  
   
 
-<br/>  
-
 ## My Recent Projects
 
 - ✅ <a href="https://github.com/andrii1/interview-assignment-tasks/tree/main
 " target="_blank">Task manager</a> (view, create, update, delete tasks, user authentication) - React, Node.js
+
 
 ## My Skill Set  
 
