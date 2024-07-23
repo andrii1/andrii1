@@ -10,13 +10,13 @@
 - 📫 How to reach me: andrii.gorokhovskyi@gmail.com  
 - 💼 Portfolio: <a href="https://troopl.com/andrii" target="_blank">Troopl</a>
 - ⚡ Fun fact: I like white themes.  
-  
+  <br/>  
 
 ## My Recent Projects
 
 - ✅ <a href="https://github.com/andrii1/interview-assignment-tasks/tree/main
 " target="_blank">Task manager</a> (view, create, update, delete tasks, user authentication) - React, Node.js
-
+<br/>  
 
 ## My Skill Set  
 
